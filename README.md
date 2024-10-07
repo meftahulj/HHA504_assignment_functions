@@ -2,11 +2,12 @@
 The objective of this assignment is to introduce you to serverless computing and the use of cron jobs in cloud environments. You will deploy serverless functions on both Azure and Google Cloud Platform (GCP), and create a scheduled task using GitHub Actions.
 
 ### Deploy a Serverless Function
-## Azure
+#### Azure
 
 
-## GCP
+#### GCP
 
+### Create a Cron Job
 
 ### Reflection
 Azure Benefits
